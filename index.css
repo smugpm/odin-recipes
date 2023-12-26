@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: 14px; */
+}
+.heading{
+    height: 140px;
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+    color: orange;
+}
+
+.heading > a{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.parts{
+    /* background-color: blue; */ */
+    margin-top: 0;
+    font-size: 1.2em;
+    width: 90%;
+    margin: 0 auto;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
